@@ -1,0 +1,54 @@
+{
+    "type": "System Landscape",
+    "scope": "CartolaData API",
+    "description": "The system landscape diagram for CartolaData API",
+    "size": "A5_Landscape",
+  
+  
+    "elements": [
+      {
+        "type": "Software System",
+        "name": "CartolaData System",
+        "description": "",
+        "tags": "Internal",
+        "position": "835,890",
+        "containers": []
+      },
+      {
+        "type": "Person",
+        "name": "CartolaData User",
+        "description": "",
+        "tags": "",
+        "position": "850,245"
+      }
+    ],
+  
+  
+    "relationships": [
+      {
+        "source": "CartolaData User",
+        "description": "uses",
+        "technology": "",
+        "destination": "CartolaData System",
+        "tags": ""
+      }
+    ],
+  
+  
+    "styles": [
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Person",
+        "width": "",
+        "height": "",
+        "background": "#8080ff",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Person",
+        "metadata": ""
+      }
+    ]
+  }

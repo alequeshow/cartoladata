@@ -1,0 +1,191 @@
+{
+    "type": "Container",
+    "scope": "CartolaData System",
+    "description": "The container diagram for CartolaData system.",
+    "size": "A5_Landscape",
+  
+  
+    "elements": [
+      {
+        "type": "Software System",
+        "name": "Cartola API",
+        "description": "Third Party API to provide data",
+        "tags": "External Software System, External",
+        "position": "1970,830",
+        "containers": []
+      },
+      {
+        "type": "Software System",
+        "name": "CartolaData System",
+        "description": "",
+        "tags": "",
+        "containers": [
+          {
+            "type": "Container",
+            "name": "CartolaData API",
+            "description": "",
+            "technology": "",
+            "tags": "API",
+            "position": "815,400",
+            "components": []
+          },
+          {
+            "type": "Container",
+            "name": "CartolaData Core",
+            "description": "Gathers all logical behaviour",
+            "technology": ".Net",
+            "tags": "",
+            "position": "815,830",
+            "components": []
+          },
+          {
+            "type": "Container",
+            "name": "CartolaData Mobile App",
+            "description": "Mobile version",
+            "technology": "Xamarin",
+            "tags": "Frontend",
+            "position": "165,35",
+            "components": []
+          },
+          {
+            "type": "Container",
+            "name": "CartolaData WebApplication",
+            "description": "WebApplication to check football player stats",
+            "technology": "ASP.Net MVC",
+            "tags": "Frontend",
+            "position": "1420,35",
+            "components": []
+          },
+          {
+            "type": "Container",
+            "name": "DataBase",
+            "description": "Stories mainly Players and User data",
+            "technology": "No Relational DataBase",
+            "tags": "Database",
+            "position": "815,1225",
+            "components": []
+          }
+        ]
+      }
+    ],
+  
+  
+    "relationships": [
+      {
+        "source": "CartolaData API",
+        "description": "",
+        "technology": "",
+        "destination": "CartolaData Core",
+        "tags": ""
+      },
+      {
+        "source": "CartolaData Core",
+        "description": "accesses",
+        "technology": "",
+        "destination": "CartolaData System",
+        "tags": ""
+      },
+      {
+        "source": "CartolaData Core",
+        "description": "",
+        "technology": "",
+        "destination": "DataBase",
+        "tags": ""
+      },
+      {
+        "source": "CartolaData Core",
+        "description": "consumes",
+        "technology": "https/json",
+        "destination": "Cartola API",
+        "tags": ""
+      },
+      {
+        "source": "CartolaData Mobile App",
+        "description": "",
+        "technology": "",
+        "destination": "CartolaData API",
+        "tags": ""
+      },
+      {
+        "source": "CartolaData WebApplication",
+        "description": "",
+        "technology": "",
+        "destination": "CartolaData API",
+        "tags": ""
+      }
+    ],
+  
+  
+    "styles": [
+      {
+        "type": "element",
+        "description": "",
+        "tag": "API",
+        "width": "",
+        "height": "",
+        "background": "#00caca",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Box",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Database",
+        "width": "",
+        "height": "",
+        "background": "#00df70",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Cylinder",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "External Software System",
+        "width": "",
+        "height": "",
+        "background": "#ffff80",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Box",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Frontend",
+        "width": "",
+        "height": "",
+        "background": "#0061c1",
+        "color": "#e1e1e1",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "",
+        "metadata": ""
+      },
+      {
+        "type": "element",
+        "description": "",
+        "tag": "Person",
+        "width": "",
+        "height": "",
+        "background": "#0080c0",
+        "color": "",
+        "fontSize": "",
+        "border": "",
+        "opacity": "",
+        "shape": "Person",
+        "metadata": ""
+      }
+    ]
+  }
