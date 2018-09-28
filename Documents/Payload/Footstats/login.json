@@ -1,0 +1,37 @@
+POST: http://premium.footstats.com.br/MF/user/logon HTTP/1.1
+Host: premium.footstats.com.br
+Proxy-Connection: keep-alive
+Content-Length: 51
+Accept: application/json
+Origin: http://meu.footstats.net
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Content-Type: application/json
+Referer: http://meu.footstats.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: en,en-US;q=0.9,pt;q=0.8,es;q=0.7,pt-BR;q=0.6
+
+Request:
+{
+    "email": "alex.pans@gmail.com",
+    "password": "******"
+}
+
+Response:
+{
+    "id": 772,
+    "nome": "Alex Almeida",
+    "email": "alex.pans@gmail.com",
+    "authorization": "****************************",
+    "preferences": {
+        "team": {
+            "id": 1004,
+            "name": "Corinthians",
+            "flag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+            "defaults": {
+                "championshipId": 609,
+                "championshipName": "Copa do Brasil 2018"
+            }
+        },
+        "notifyType": 1
+    }
+}

@@ -1,0 +1,6442 @@
+[
+    {
+        "playerId": 35613,
+        "teamId": 1011,
+        "name": "Gabriel Barbosa",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 6,
+            "right": 1,
+            "wrong": 5
+        },
+        "average": {
+            "absolute": 6,
+            "right": 1,
+            "wrong": 5
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 16.7,
+            "wrong": 83.3
+        }
+    },
+    {
+        "playerId": 39259,
+        "teamId": 1011,
+        "name": "Jean Mota",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 5,
+            "right": 1,
+            "wrong": 4
+        },
+        "average": {
+            "absolute": 5,
+            "right": 1,
+            "wrong": 4
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 20,
+            "wrong": 80
+        }
+    },
+    {
+        "playerId": 39301,
+        "teamId": 1172,
+        "name": "Marlone",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 5,
+            "right": 3,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 5,
+            "right": 3,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 60,
+            "wrong": 40
+        }
+    },
+    {
+        "playerId": 10475,
+        "teamId": 1015,
+        "name": "Wagner",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 75,
+            "wrong": 25
+        }
+    },
+    {
+        "playerId": 10629,
+        "teamId": 1325,
+        "name": "Wellington Paulista",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "average": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 25,
+            "wrong": 75
+        }
+    },
+    {
+        "playerId": 11227,
+        "teamId": 1010,
+        "name": "Carleto",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 2,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 4,
+            "right": 2,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 29788,
+        "teamId": 1174,
+        "name": "Rhayner",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "average": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 25,
+            "wrong": 75
+        }
+    },
+    {
+        "playerId": 31933,
+        "teamId": 1010,
+        "name": "Nikão",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 75,
+            "wrong": 25
+        }
+    },
+    {
+        "playerId": 39212,
+        "teamId": 1325,
+        "name": "Arthur Caíque",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 0,
+            "wrong": 4
+        },
+        "average": {
+            "absolute": 4,
+            "right": 0,
+            "wrong": 4
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 40609,
+        "teamId": 1018,
+        "name": "Nico López",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 2,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 4,
+            "right": 2,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 44098,
+        "teamId": 1017,
+        "name": "De Arrascaeta",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "average": {
+            "absolute": 4,
+            "right": 1,
+            "wrong": 3
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 25,
+            "wrong": 75
+        }
+    },
+    {
+        "playerId": 46680,
+        "teamId": 1009,
+        "name": "Denílson",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 4,
+            "right": 3,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 75,
+            "wrong": 25
+        }
+    },
+    {
+        "playerId": 55802,
+        "teamId": 1015,
+        "name": "Evander",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 4,
+            "right": 0,
+            "wrong": 4
+        },
+        "average": {
+            "absolute": 4,
+            "right": 0,
+            "wrong": 4
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 10632,
+        "teamId": 1017,
+        "name": "Thiago Neves",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 13180,
+        "teamId": 1012,
+        "name": "Willian",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 3,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 3,
+            "right": 3,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17546,
+        "teamId": 1325,
+        "name": "Apodi",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 0,
+            "wrong": 3
+        },
+        "average": {
+            "absolute": 3,
+            "right": 0,
+            "wrong": 3
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 19039,
+        "teamId": 1297,
+        "name": "Juninho Valoura",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 29055,
+        "teamId": 1085,
+        "name": "Carlinhos",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 32361,
+        "teamId": 1009,
+        "name": "Rómulo Otero",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 33621,
+        "teamId": 1010,
+        "name": "Pablo",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 39038,
+        "teamId": 1250,
+        "name": "Zé Rafael ",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 39046,
+        "teamId": 1015,
+        "name": "Yago Pikachu",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 41620,
+        "teamId": 1009,
+        "name": "Juan Cazares",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 44205,
+        "teamId": 1003,
+        "name": "Leonardo Valencia",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 46519,
+        "teamId": 1174,
+        "name": "Yago Costa",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 54852,
+        "teamId": 1085,
+        "name": "Serginho Soler",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 3,
+            "right": 2,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 66.7,
+            "wrong": 33.3
+        }
+    },
+    {
+        "playerId": 58089,
+        "teamId": 1009,
+        "name": "Gustavo Blanco",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 3,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 3,
+            "right": 3,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 66480,
+        "teamId": 1005,
+        "name": "Vinícius Júnior",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 3,
+            "right": 1,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 33.3,
+            "wrong": 66.7
+        }
+    },
+    {
+        "playerId": 10282,
+        "teamId": 1325,
+        "name": "Vinícius",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 11593,
+        "teamId": 1005,
+        "name": "Réver",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17540,
+        "teamId": 1297,
+        "name": "Ernandes",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 18218,
+        "teamId": 1009,
+        "name": "Ricardo Oliveira",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 19533,
+        "teamId": 1018,
+        "name": "D'Alessandro",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 20231,
+        "teamId": 1017,
+        "name": "Henrique",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 21004,
+        "teamId": 1004,
+        "name": "Rodriguinho",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 22061,
+        "teamId": 1011,
+        "name": "Eduardo Sasha",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 27227,
+        "teamId": 1174,
+        "name": "Alexander Baumjohann",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 29309,
+        "teamId": 1172,
+        "name": "Fellipe Bastos",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 30953,
+        "teamId": 1017,
+        "name": "Federico Mancuello",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 33518,
+        "teamId": 1010,
+        "name": "Éderson",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 34367,
+        "teamId": 1083,
+        "name": "André",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 38464,
+        "teamId": 1004,
+        "name": "Clayson",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 40614,
+        "teamId": 1003,
+        "name": "Rodrigo Lindoso",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 40743,
+        "teamId": 1007,
+        "name": "Valdívia",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 41312,
+        "teamId": 1011,
+        "name": "Léo Cittadini",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 42420,
+        "teamId": 1018,
+        "name": "Patrick Nascimento",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 43294,
+        "teamId": 1083,
+        "name": "Everton",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 43502,
+        "teamId": 1004,
+        "name": "Angel Romero",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 45136,
+        "teamId": 1012,
+        "name": "Alejandro Guerra",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 46147,
+        "teamId": 1007,
+        "name": "Marcos Guilherme",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 47931,
+        "teamId": 1006,
+        "name": "Junior Sornoza",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 49048,
+        "teamId": 1297,
+        "name": "Pio",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 50590,
+        "teamId": 1085,
+        "name": "Aylon",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 50596,
+        "teamId": 1006,
+        "name": "Pablo Dyego",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 50801,
+        "teamId": 1250,
+        "name": "Léo",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 52549,
+        "teamId": 1174,
+        "name": "Rodrigo Andrade",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 54553,
+        "teamId": 1021,
+        "name": "Jucimar Alemão",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 55185,
+        "teamId": 1172,
+        "name": "Andrigo",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 55821,
+        "teamId": 1006,
+        "name": "Pedro ",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 55986,
+        "teamId": 1007,
+        "name": "Lucas Fernandes ",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56304,
+        "teamId": 1010,
+        "name": "Ribamar",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 61070,
+        "teamId": 1006,
+        "name": "Ayrton Lucas",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 62039,
+        "teamId": 1005,
+        "name": "Lucas Paquetá",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 2,
+            "right": 2,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 65427,
+        "teamId": 1015,
+        "name": "Andrés Rios",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "average": {
+            "absolute": 2,
+            "right": 0,
+            "wrong": 2
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 68595,
+        "teamId": 1006,
+        "name": "Richard Candido",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 71205,
+        "teamId": 1011,
+        "name": "Rodrygo",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 71698,
+        "teamId": 1018,
+        "name": "Brenner Sabino",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 2,
+            "right": 1,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 50,
+            "wrong": 50
+        }
+    },
+    {
+        "playerId": 10463,
+        "teamId": 1017,
+        "name": "Rafael Sóbis",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 11117,
+        "teamId": 1017,
+        "name": "Edílson",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 11152,
+        "teamId": 1085,
+        "name": "Rafael Moura",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 11605,
+        "teamId": 1006,
+        "name": "Gum",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 13350,
+        "teamId": 1007,
+        "name": "Nenê",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 13936,
+        "teamId": 1007,
+        "name": "Bruno Alves",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 14545,
+        "teamId": 1004,
+        "name": "Fágner",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 17362,
+        "teamId": 1085,
+        "name": "Luan",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 17728,
+        "teamId": 1174,
+        "name": "Pedro Botelho",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 20690,
+        "teamId": 1003,
+        "name": "Rodrigo Pimpão",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 20848,
+        "teamId": 1010,
+        "name": "Wellington",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21280,
+        "teamId": 1297,
+        "name": "Javier Reina",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21493,
+        "teamId": 1006,
+        "name": "Renato Chaves",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 23074,
+        "teamId": 1174,
+        "name": "Willian Farias",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 23132,
+        "teamId": 1250,
+        "name": "Nino Paraíba",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 23274,
+        "teamId": 1172,
+        "name": "Anselmo Moraes",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 24133,
+        "teamId": 1005,
+        "name": "Diego",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 25392,
+        "teamId": 1004,
+        "name": "Henrique",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 26663,
+        "teamId": 1250,
+        "name": "Edigar Junio",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 27004,
+        "teamId": 1021,
+        "name": "Silvinho",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 30675,
+        "teamId": 1021,
+        "name": "Carlos Eduardo",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 31320,
+        "teamId": 1018,
+        "name": "Rodrigo Moledo",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 31494,
+        "teamId": 1015,
+        "name": "Henrique",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 31743,
+        "teamId": 1174,
+        "name": "Uillian Correia",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 32404,
+        "teamId": 1015,
+        "name": "Rildo",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 32786,
+        "teamId": 1003,
+        "name": "Marcos Vinícius",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 33499,
+        "teamId": 1021,
+        "name": "Leandro Vilela",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 33579,
+        "teamId": 1011,
+        "name": "Alison",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 33720,
+        "teamId": 1004,
+        "name": "Renê Junior",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 33847,
+        "teamId": 1018,
+        "name": "Rodrigo Dourado",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 33876,
+        "teamId": 1172,
+        "name": "Gabriel",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 34358,
+        "teamId": 1021,
+        "name": "Rayan",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 35056,
+        "teamId": 1007,
+        "name": "Everton Felipe",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 37324,
+        "teamId": 1018,
+        "name": "Rossi",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 37374,
+        "teamId": 1006,
+        "name": "Jadson",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 37656,
+        "teamId": 1015,
+        "name": "Thiago Galhardo",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 38901,
+        "teamId": 1250,
+        "name": "Tiago Pagnussat",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 42158,
+        "teamId": 1250,
+        "name": "Régis",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 42385,
+        "teamId": 1083,
+        "name": "Ramiro",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 43219,
+        "teamId": 1015,
+        "name": "Riascos",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 44774,
+        "teamId": 1003,
+        "name": "Brenner",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 50743,
+        "teamId": 1011,
+        "name": "Lucas Verissimo",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 52141,
+        "teamId": 1174,
+        "name": "Jeferson",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 52168,
+        "teamId": 1297,
+        "name": "Arthur Cabral",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 55872,
+        "teamId": 1004,
+        "name": "Maycon",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 55953,
+        "teamId": 1004,
+        "name": "Mateus Vital",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 56294,
+        "teamId": 1003,
+        "name": "Igor Rabello",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56684,
+        "teamId": 1010,
+        "name": "Matheus Rossetto",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 1,
+            "right": 1,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 100,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 57911,
+        "teamId": 1172,
+        "name": "Hygor",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 62223,
+        "teamId": 1085,
+        "name": "Christian Savio",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 63511,
+        "teamId": 1250,
+        "name": "Gregore",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 65273,
+        "teamId": 1003,
+        "name": "Matheus Fernandes",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 65285,
+        "teamId": 1003,
+        "name": "Lucca Carvalho",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 66266,
+        "teamId": 1250,
+        "name": "Marco Antônio",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 69666,
+        "teamId": 1007,
+        "name": "Brenner",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 73160,
+        "teamId": 1021,
+        "name": "Caio Henrique",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "average": {
+            "absolute": 1,
+            "right": 0,
+            "wrong": 1
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 100
+        }
+    },
+    {
+        "playerId": 10126,
+        "teamId": 1009,
+        "name": "Fábio Santos",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 10194,
+        "teamId": 1325,
+        "name": "Márcio Araújo",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 10389,
+        "teamId": 1083,
+        "name": "Léo Moura",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 10465,
+        "teamId": 1017,
+        "name": "Fábio",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 10513,
+        "teamId": 1010,
+        "name": "Jonathan",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 10617,
+        "teamId": 1012,
+        "name": "Marcos Rocha",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 11642,
+        "teamId": 1004,
+        "name": "Ralf",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 11743,
+        "teamId": 1012,
+        "name": "Jailson",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 11808,
+        "teamId": 1083,
+        "name": "Maicon",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 11814,
+        "teamId": 1017,
+        "name": "Egídio",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 12308,
+        "teamId": 1297,
+        "name": "Roberto",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 12501,
+        "teamId": 1083,
+        "name": "Cícero",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 12997,
+        "teamId": 1009,
+        "name": "Victor",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 13041,
+        "teamId": 1083,
+        "name": "Marcelo Grohe",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 13186,
+        "teamId": 1325,
+        "name": "Amaral",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 13613,
+        "teamId": 1172,
+        "name": "Ernando",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 15553,
+        "teamId": 1011,
+        "name": "David Braz",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 16226,
+        "teamId": 1015,
+        "name": "Martín Silva",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 16977,
+        "teamId": 1003,
+        "name": "Gatito Fernandez",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17112,
+        "teamId": 1017,
+        "name": "Léo",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17250,
+        "teamId": 1005,
+        "name": "Éverton Ribeiro",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17466,
+        "teamId": 1017,
+        "name": "Ariel Cabral",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17578,
+        "teamId": 1011,
+        "name": "Vanderlei",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17696,
+        "teamId": 1007,
+        "name": "Hudson",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 17726,
+        "teamId": 1085,
+        "name": "Rafael Lima",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18122,
+        "teamId": 1085,
+        "name": "Wesley",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18191,
+        "teamId": 1085,
+        "name": "Gérson Magrão",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18204,
+        "teamId": 1018,
+        "name": "Marcelo Lomba",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18264,
+        "teamId": 1009,
+        "name": "Patric",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18345,
+        "teamId": 1297,
+        "name": "Felipe Azevedo",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 18467,
+        "teamId": 1325,
+        "name": "Eduardo Oliveira",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20182,
+        "teamId": 1017,
+        "name": "Dedé ",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20232,
+        "teamId": 1012,
+        "name": "Dudu",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20317,
+        "teamId": 1007,
+        "name": "Sidão",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20375,
+        "teamId": 1172,
+        "name": "Agenor",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20771,
+        "teamId": 1010,
+        "name": "Camacho",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 20819,
+        "teamId": 1021,
+        "name": "Léo Itaperuna",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21126,
+        "teamId": 1015,
+        "name": "Werley",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21387,
+        "teamId": 1083,
+        "name": "Paulo Miranda",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21683,
+        "teamId": 1003,
+        "name": "Kieza",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 21705,
+        "teamId": 1004,
+        "name": "Emerson Sheik",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23069,
+        "teamId": 1018,
+        "name": "Edenilson",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23085,
+        "teamId": 1172,
+        "name": "Deivid",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23282,
+        "teamId": 1250,
+        "name": "Vinícius",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23301,
+        "teamId": 1007,
+        "name": "Jucilei",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23556,
+        "teamId": 1011,
+        "name": "Dodô",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23560,
+        "teamId": 1015,
+        "name": "Rafael Galhardo",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 23601,
+        "teamId": 1005,
+        "name": "Henrique Dourado",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 25367,
+        "teamId": 1005,
+        "name": "Diego Alves",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 25925,
+        "teamId": 1005,
+        "name": "Juan",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 26696,
+        "teamId": 1085,
+        "name": "Paulão",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 27089,
+        "teamId": 1250,
+        "name": "Elton",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 28185,
+        "teamId": 1297,
+        "name": "Leandro Carvalho",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 28885,
+        "teamId": 1083,
+        "name": "Bressan",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 29009,
+        "teamId": 1003,
+        "name": "Gilson",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 29029,
+        "teamId": 1297,
+        "name": "Everson",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 29031,
+        "teamId": 1007,
+        "name": "Régis Souza",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 29089,
+        "teamId": 1174,
+        "name": "Juninho",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 29857,
+        "teamId": 1018,
+        "name": "William Pottker",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 30685,
+        "teamId": 1297,
+        "name": "Wescley",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 30704,
+        "teamId": 1009,
+        "name": "Elias",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 30729,
+        "teamId": 1017,
+        "name": "Robinho",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 30864,
+        "teamId": 1012,
+        "name": "Diogo Barbosa",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 31256,
+        "teamId": 1007,
+        "name": "Rodrigo Caio",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 31523,
+        "teamId": 1083,
+        "name": "Michel",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 32079,
+        "teamId": 1297,
+        "name": "Luiz Otávio",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 32131,
+        "teamId": 1006,
+        "name": "Júlio César",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 33560,
+        "teamId": 1004,
+        "name": "Cássio",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 33563,
+        "teamId": 1325,
+        "name": "Héctor Canteros",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 33695,
+        "teamId": 1021,
+        "name": "Nádson",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 34572,
+        "teamId": 1010,
+        "name": "Santos",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 35311,
+        "teamId": 1083,
+        "name": "Bruno Cortez",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 35611,
+        "teamId": 1005,
+        "name": "Geuvânio",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 35839,
+        "teamId": 1174,
+        "name": "Kanu",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 36976,
+        "teamId": 1012,
+        "name": "Antônio Carlos",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37152,
+        "teamId": 1005,
+        "name": "Rodinei",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37167,
+        "teamId": 1250,
+        "name": "Douglas Friedrich",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37193,
+        "teamId": 1297,
+        "name": "Ricardinho",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37225,
+        "teamId": 1021,
+        "name": "Richard",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37299,
+        "teamId": 1250,
+        "name": "Douglas Grolli",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37372,
+        "teamId": 1172,
+        "name": "Claudio Winck",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37376,
+        "teamId": 1017,
+        "name": "Sassá",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/cruzeiro.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37431,
+        "teamId": 1006,
+        "name": "Marcos Júnior",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37498,
+        "teamId": 1012,
+        "name": "Bruno Henrique",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 37766,
+        "teamId": 1018,
+        "name": "Víctor Cuesta",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 38427,
+        "teamId": 1172,
+        "name": "Raul Prata",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 38481,
+        "teamId": 1005,
+        "name": "Willian Arão",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 38922,
+        "teamId": 1174,
+        "name": "Ramon Menezes",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 38998,
+        "teamId": 1003,
+        "name": "Erik",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39086,
+        "teamId": 1021,
+        "name": "Mansur",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39136,
+        "teamId": 1015,
+        "name": "Leandro Desábato",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vasco.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39200,
+        "teamId": 1085,
+        "name": "Norberto Neto",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39246,
+        "teamId": 1009,
+        "name": "Roger Guedes",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39257,
+        "teamId": 1005,
+        "name": "Renê",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39290,
+        "teamId": 1012,
+        "name": "Lucas Lima",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39295,
+        "teamId": 1006,
+        "name": "Gilberto",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39431,
+        "teamId": 1007,
+        "name": "Christian Cueva",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39437,
+        "teamId": 1009,
+        "name": "Luan",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 39667,
+        "teamId": 1172,
+        "name": "Rafael Marques ",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 41313,
+        "teamId": 1011,
+        "name": "Vitor Bueno",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 41723,
+        "teamId": 1012,
+        "name": "Felipe Melo",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 42253,
+        "teamId": 1297,
+        "name": "Valdo",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 42261,
+        "teamId": 1297,
+        "name": "Arnaldo",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 42664,
+        "teamId": 1297,
+        "name": "Rafael Carioca",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/ceara.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 43126,
+        "teamId": 1250,
+        "name": "Allione",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 43377,
+        "teamId": 1004,
+        "name": "Sidcley",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 43796,
+        "teamId": 1012,
+        "name": "Thiago Martins",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 43797,
+        "teamId": 1085,
+        "name": "Juninho",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 43855,
+        "teamId": 1021,
+        "name": "Thiago Santos",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 44582,
+        "teamId": 1010,
+        "name": "Bruno Guimarães",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 44771,
+        "teamId": 1010,
+        "name": "Esteban Pavez",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 45401,
+        "teamId": 1083,
+        "name": "Kannemann",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 45475,
+        "teamId": 1012,
+        "name": "Keno",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 45502,
+        "teamId": 1003,
+        "name": "Joel Carli",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 46644,
+        "teamId": 1018,
+        "name": "Fabiano",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 47641,
+        "teamId": 1004,
+        "name": "Fabián Balbuena",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 49471,
+        "teamId": 1325,
+        "name": "Douglas",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 50639,
+        "teamId": 1172,
+        "name": "Sander",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 50670,
+        "teamId": 1325,
+        "name": "Rafael Thyere",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 50739,
+        "teamId": 1011,
+        "name": "Daniel Guedes",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 50778,
+        "teamId": 1009,
+        "name": "Gabriel",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 50789,
+        "teamId": 1009,
+        "name": "Yago",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 51400,
+        "teamId": 1085,
+        "name": "Messias",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 51563,
+        "teamId": 1005,
+        "name": "Gustavo Cuellar",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/flamengo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 51756,
+        "teamId": 1172,
+        "name": "Ferreira",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 52092,
+        "teamId": 1012,
+        "name": "Deyverson",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 52838,
+        "teamId": 1018,
+        "name": "Gabriel Dias",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 54554,
+        "teamId": 1174,
+        "name": "Guilherme Costa",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 55213,
+        "teamId": 1174,
+        "name": "Caíque",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/vitoria.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 55218,
+        "teamId": 1012,
+        "name": "Moisés",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/palmeiras.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 55807,
+        "teamId": 1172,
+        "name": "Léo Ortiz",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sport.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56254,
+        "teamId": 1083,
+        "name": "Arthur",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56368,
+        "teamId": 1021,
+        "name": "Diego Gonçalves",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56626,
+        "teamId": 1325,
+        "name": "Jandrei",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 56954,
+        "teamId": 1010,
+        "name": "Raphael Veiga",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 57408,
+        "teamId": 1325,
+        "name": "Bruno Pacheco",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 58475,
+        "teamId": 1021,
+        "name": "Jesiel",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 58483,
+        "teamId": 1083,
+        "name": "Jailson",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/gremio.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 59990,
+        "teamId": 1021,
+        "name": "Marcelo Báez",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61397,
+        "teamId": 1010,
+        "name": "Zé Ivaldo",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-pr.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61850,
+        "teamId": 1003,
+        "name": "Marcinho",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61868,
+        "teamId": 1004,
+        "name": "Pedrinho",
+        "position": "MEI",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/corinthians.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61884,
+        "teamId": 1018,
+        "name": "Iago",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/internacional.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61958,
+        "teamId": 1085,
+        "name": "Jori",
+        "position": "GOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 61963,
+        "teamId": 1085,
+        "name": "José Ricardo",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/america-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 62098,
+        "teamId": 1011,
+        "name": "Diego Pituca",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 62326,
+        "teamId": 1325,
+        "name": "Guilherme ",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/chapecoense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 64207,
+        "teamId": 1006,
+        "name": "João Carlos",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 65242,
+        "teamId": 1007,
+        "name": "Júnior Tavares",
+        "position": "LAT",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 65270,
+        "teamId": 1003,
+        "name": "Gustavo Buchecha",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/botafogo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 65411,
+        "teamId": 1007,
+        "name": "Eder Militão",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/sao-paulo.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 65861,
+        "teamId": 1011,
+        "name": "Arthur Gomes",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/santos.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 67029,
+        "teamId": 1006,
+        "name": "Frazan",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 68888,
+        "teamId": 1021,
+        "name": "Wesley Dias",
+        "position": "VOL",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/parana.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 69619,
+        "teamId": 1009,
+        "name": "Bremer",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/atletico-mg.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 69870,
+        "teamId": 1250,
+        "name": "Júnior Brumado",
+        "position": "ATA",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/bahia.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    },
+    {
+        "playerId": 69897,
+        "teamId": 1006,
+        "name": "Roger Ibañez",
+        "position": "ZAG",
+        "teamFlag": "https://s3-sa-east-1.amazonaws.com/logos.footstast.net/88x88/fluminense.png",
+        "gamesOrMinutes": 1,
+        "totals": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "average": {
+            "absolute": 0,
+            "right": 0,
+            "wrong": 0
+        },
+        "percentage": {
+            "absolute": 100,
+            "right": 0,
+            "wrong": 0
+        }
+    }
+]
